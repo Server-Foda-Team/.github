@@ -10,3 +10,4 @@ ex.:
 - **seu nick**: [texto fodão]
 não se esqueça de criar uma nova linha no final pra isso -->
 - **mingokrb**: fodendo lugarseguradores só empacam a inteira foda...
+- **SMG5**: morte morte flagelo
